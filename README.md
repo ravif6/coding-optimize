@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravif6&label=Profile%20views&color=0e75b6&style=flat" alt="ravif6" /> </p>
 
-- 🌱 I’m currently learning **Java , SpringBoot**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 💬 Ask me about **Data structures, Design patterns**
 
