@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data structures, Design patterns**
 
-- 📫 How to reach me **ravikiranf6"gmail.com**
+- 📫 How to reach me **ravikiranf6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
