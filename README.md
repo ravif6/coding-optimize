@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 💬 Ask me about **Data structures, Design patterns**
+- 💬 Ask me about **Data Structures, Design Patterns**
 
 - 📫 How to reach me **ravikiranf6@gmail.com**
 
